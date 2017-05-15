@@ -3,7 +3,6 @@ layout: page
 title: About
 ---
 
-![]({{ site.baseurl }}/public/logo/consentua-logo-colour.svg)
 
 <p class="message">
   Consentua helps organisations to build trust and achieve compliance by giving customers a choice about how their personal data is used.
@@ -15,3 +14,4 @@ For more information, please visit the [home page](http://consentua.com) or [con
 
 Thank you for reading.
 
+![]({{ site.baseurl }}/public/logo/consentua-logo-colour.svg)

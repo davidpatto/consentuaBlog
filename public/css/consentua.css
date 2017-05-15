@@ -31,6 +31,9 @@ body{
 a{
   color: var(--main-color, #9A1144);
 }
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Raleway', sans-serif;
+}
 @media (min-width: 48em) {
   html {
     font-size: 16px;
@@ -190,3 +193,9 @@ a.sidebar-nav-item:focus {
 .share-btn.facebook    { background: #3B5998; }
 .share-btn.reddit      { background: #ff5700; }
 .share-btn.linkedin    { background: #4875B4; }
+
+.archive ul{
+  border-right: 5px solid var(--main-color, #9A1144);
+  list-style: none;
+  padding: 0px 0.7rem;
+}
