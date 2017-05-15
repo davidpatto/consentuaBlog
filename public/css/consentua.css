@@ -50,6 +50,16 @@ html {
   color: var(--dark-2-color, #212121);
   background-color: var(--main-color, #9A1144);
 }
+.sidebar:after{
+    content: "";
+    display: block;
+    position: absolute;
+    top: -40px; right: -40px; bottom: -40px; left: -40px;
+    border: 80px solid rgba(255, 255, 255, 0.08);
+    border-radius: 50px;
+    transform: rotate(30deg);
+    z-index: -1;
+}
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;

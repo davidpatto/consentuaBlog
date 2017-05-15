@@ -10,7 +10,7 @@ title:            consentua
 tagline:          'A Jekyll theme'
 description:      'Choice and Control for your personal Data'
 url:              http://blog.consentua.com
-baseurl:          '/consentuaBlog/'
+baseurl:          '/consentuaBlog'
 
 author:
   name:           'Knownow Information'
