@@ -1,6 +1,6 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# markdown:         redcarpet
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -10,7 +10,7 @@ title:            consentua
 tagline:          'A Jekyll theme'
 description:      'Choice and Control for your personal Data'
 url:              http://blog.consentua.com
-baseurl:          'https://sideshowjack.uk/consentuaBlog/'
+baseurl:          '/consentuaBlog/'
 
 author:
   name:           'Knownow Information'
