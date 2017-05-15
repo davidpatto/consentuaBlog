@@ -3,30 +3,15 @@ layout: page
 title: About
 ---
 
-![]({{ site.baseurl }}/public/logo/consentua-logo-color.svg)
+![]({{ site.baseurl }}/public/logo/consentua-logo-colour.svg)
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Consentua helps organisations to build trust and achieve compliance by giving customers a choice about how their personal data is used.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+[Consentua](http://consentua.com) is a *consent management platform* that gives individuals choice and control over how their personal data is used, helps organisations to achieve and demonstrate data protection compliance, and builds trust between service providers and their customers.
 
-There are currently two themes built on Poole:
+For more information, please visit the [home page](http://consentua.com) or [contact our team](http://consentua.com/#contact).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Thank you for reading.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
