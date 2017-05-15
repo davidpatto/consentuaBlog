@@ -59,11 +59,31 @@ Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mol
 
 Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper.
 
-### Iframe
+### Embed
 
 ## youtube embed
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/9HeM8HCm_NQ?rel=0modestbranding=1" frameborder="0" allowfullscreen></iframe>
+
+## codepen embed
+
+<iframe height='367' scrolling='no' title='The Last Experience' src='//codepen.io/ge1doot/embed/LkdOwj/?height=367&theme-id=dark&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/ge1doot/pen/LkdOwj/'>The Last Experience</a> by Gerard Ferrandez (<a href='http://codepen.io/ge1doot'>@ge1doot</a>) on <a href='http://codepen.io'>CodePen</a>.
+</iframe>
+
+## vimeo embed
+
+<iframe src="https://player.vimeo.com/video/203718601?color=9A1144" width="800" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+## tweet embed
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Get ahead of the game for GDPR with privacy consultancy services from KnowNow - <a href="https://t.co/Nm0Mon1AtG">https://t.co/Nm0Mon1AtG</a> <a href="https://twitter.com/hashtag/privacy?src=hash">#privacy</a> <a href="https://twitter.com/hashtag/gdpr?src=hash">#gdpr</a> <a href="https://twitter.com/hashtag/data?src=hash">#data</a> <a href="https://t.co/oqmP5QmZPd">pic.twitter.com/oqmP5QmZPd</a></p>&mdash; Consentua (@Consentua) <a href="https://twitter.com/Consentua/status/862329890514898944">May 10, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+## Soundcloud embed
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/70903653&amp;color=9a1144&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 
 ### Lists
 
