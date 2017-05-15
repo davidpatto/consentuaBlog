@@ -10,7 +10,7 @@ title:            consentua
 tagline:          'Blog'
 description:      'Choice and Control for your personal Data'
 url:              http://blog.consentua.com
-baseurl:          '/consentuaBlog/'
+baseurl:          '/consentuaBlog'
 home:             http://consentua.com
 dashboard:        https://app.consentua.com
 api:              http://api.consentua.com/swagger

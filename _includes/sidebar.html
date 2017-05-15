@@ -3,7 +3,7 @@
     <div class="sidebar-about">
       <h1>
         <a href="http://consentua.com/">
-          <img src="{{ site.baseurl }}public/logo/consentua-logo-white.svg" alt="Consentua">
+          <img src="{{ site.baseurl }}/public/logo/consentua-logo-white.svg" alt="Consentua">
         </a>
       </h1>
       <p class="lead">{{ site.description }}</p>
@@ -16,14 +16,14 @@
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/{{ node.url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}archive">
-        <i class="fa fa-fw fa-archive hidden" aria-hidden="true"></i>
+      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/archive">
         Achive
+        <i class="fa fa-fw fa-archive hidden" aria-hidden="true"></i>
       </a>
     </nav>
 
