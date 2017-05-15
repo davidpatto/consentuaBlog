@@ -25,6 +25,9 @@
 html {
   font-family: 'Open Sans', sans-serif;
 }
+body{
+  color: var(--dark-2-color, #212121);
+}
 @media (min-width: 48em) {
   html {
     font-size: 16px;
@@ -47,7 +50,7 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: var(--dark-2-color, #212121);
+  color: var(--grey-2-color, #E1E1E1);
   background-color: var(--main-color, #9A1144);
 }
 .sidebar:after{
