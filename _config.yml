@@ -10,7 +10,7 @@ title:            consentua
 tagline:          'A Jekyll theme'
 description:      'Consentua is a consent management tool that helps organisations to achieve data protection compliance, and gives individuals choice and control over how their personal data is used.'
 url:              http://blog.consentua.com
-baseurl:          '/'
+baseurl:          'https://sideshowjack.uk/consentuaBlog/'
 
 author:
   name:           'Knownow Information'
