@@ -160,6 +160,23 @@ a.sidebar-nav-item:focus {
     max-width: 100%;
 }
 
+.post .img-right{
+  float: right;
+  max-width: 50%;
+  padding: 1rem;
+}
+
+.post .img-center{
+  width: 100%;
+  padding: 1rem auto;
+}
+
+.post .img-left{
+  float: left;
+  max-width: 50%;
+  padding: 1rem;
+}
+
 .related{
   border: none;
 }

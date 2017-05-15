@@ -6,7 +6,7 @@ published: true
 
 A new service from KnowNow Information, Consentua, helps organisations build citizen trust as required under General Data Protection Regulations (GDPR). It provides data processing transparency and gives citizens the choice and control needed to share data safely and comfortably.
 
-<img src="{{ site.baseurl }}/public/logo/consentua-logo-colour.svg" alt="Consentua Lock" style="width: 165px; margin: 0px auto;">
+<img class="img-center" src="{{ site.baseurl }}/public/logo/consentua-logo-colour.svg" alt="Consentua Lock">
 
 Consentua captures users’ consent to the use of their personal data. It provides GDPR compliance to organisations that process data. It also allows individuals to control how their personal data is being used.
 
@@ -27,7 +27,7 @@ Richard Gomer, from Southampton University, one of the leading authorities on pr
 
 Working alongside the European Commission as well as the UK Digital Catapult’s Personal Data and Trust Network, Consentua was developed according to security standards such as ISO 27001 and agreed industry best practice.
 
-<img src="http://www.kn-i.com/blog/wp-content/uploads/2016/05/logo-PersonalDataTrustNetwork-300x72.png">
+<img class="img-left" src="http://www.kn-i.com/blog/wp-content/uploads/2016/05/logo-PersonalDataTrustNetwork-300x72.png">
 
 In June 2016, after a lengthy competition, Consentua won an InnovateUK competition for a pilot deployment, working alongside the organisation SharingEconomyUK and it’s members. This project is ongoing.
 
@@ -35,7 +35,7 @@ In June 2016, after a lengthy competition, Consentua won an InnovateUK competiti
 
 Consentua’s dynamic tokens, coupled with a user-friendly dashboard, allow consent to be queried, changed and even revoked.
 
-<img src="http://www.kn-i.com/blog/wp-content/uploads/2016/05/Your-Consent-Record-239x300.jpg">
+<img class="img-right" src="http://www.kn-i.com/blog/wp-content/uploads/2016/05/Your-Consent-Record-239x300.jpg">
 
 Firstly an organisation that subscribes to the [Consentua](http://consentua.com) service will complete a Consent Template. The template states what consents are required and what data will be necessary to capture from the users. The applications that the organisation wants to enable with Consentua will then be given access to the service and a token is provided for each application and user of that application.
 
@@ -52,7 +52,7 @@ The previous consent setting is inherited should connectivity be poor or unavail
 Users have access to a standalone dashboard app that provides a view as to which application providers have access to their data and what data is being collected. They will also receive a description of the benefits and services that provider is giving that specific user.
 
 
-<img src="http://www.kn-i.com/blog/wp-content/uploads/2016/05/Consent-Record-all-195x300.jpg">
+<img class="img-right" src="http://www.kn-i.com/blog/wp-content/uploads/2016/05/Consent-Record-all-195x300.jpg">
 
 Your application managers can access an audit of consent by each user via a report run against the [Consentua](http://consentua.com) audit database. They will only see their apps consent audit trail. No personal data will be identifiable by your application managers.
 
@@ -65,7 +65,7 @@ Secondly, the consumer has control over the level of personal data available to 
 
 When it goes wrong it is often very unpleasant. In September 2016, Seagate was subjected to data theft which led to them being sued by their own employees. The employees had no control over what data the company kept on file and had not provided consent for some of the stolen data to be stored. It was found that personal information including names, addresses and social security numbers had been taken
 
-<img src="http://www.kn-i.com/blog/wp-content/uploads/2016/05/Consentua-landing-200x300.jpg">
+<img class="img-right" src="http://www.kn-i.com/blog/wp-content/uploads/2016/05/Consentua-landing-200x300.jpg">
 
 ## What are the benefits to the citizen?
 
@@ -93,7 +93,7 @@ Accusations of acting like ‘big brother’ are often levelled at services that
 
 Any authority considering deployment of [Consentua](http://consentua.com) would need to make two commitments as well as subscribing to the service.
 
-<img src="http://www.kn-i.com/blog/wp-content/uploads/2016/09/checklist-150938_640-300x249.png">
+<img class="img-right" src="http://www.kn-i.com/blog/wp-content/uploads/2016/09/checklist-150938_640-300x249.png">
 
 Firstly, the authority would need to provide access to an estimated 1 person for 1 day to provide the information needed to work with our team and create the Consent Template.
 
