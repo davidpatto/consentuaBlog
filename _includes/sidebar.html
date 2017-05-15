@@ -12,7 +12,7 @@
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item" href="{{ site.home }}">Home</a>
 
-      <a class="sidebar-nav-item" href="{{ site.baseurl }}">Blog</a>
+      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}">Blog</a>
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
