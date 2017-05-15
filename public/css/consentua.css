@@ -195,7 +195,7 @@ a.sidebar-nav-item:focus {
 .share-btn.linkedin    { background: #4875B4; }
 
 .archive ul{
-  border-right: 5px solid var(--main-color, #9A1144);
+  border-left: 5px solid var(--main-color, #9A1144);
   list-style: none;
   padding: 0px 0.7rem;
 }
