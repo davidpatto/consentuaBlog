@@ -6,15 +6,15 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Blog
+title:            consentua
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+description:      'Consentua is a consent management tool that helps organisations to achieve data protection compliance, and gives individuals choice and control over how their personal data is used.'
+url:              http://blog.consentua.com
+baseurl:          'consentuaBlog/'
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Knownow Information'
+  url:            https://kn-i.com
 
 paginate:         5
 
