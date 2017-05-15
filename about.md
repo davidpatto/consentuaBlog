@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About
 ---
 
 ![]({{ site.baseurl }}/public/logo/consentua-logo-colour.svg)
