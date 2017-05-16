@@ -182,14 +182,15 @@ a.sidebar-nav-item:focus {
   background-color: #e1e1e1;
   padding: 1rem;
 }
-.author .author-detail{
+.author-detail{
   display: flex;
   border-bottom: 1px solid #fff;
 }
-.author .author-avatar{
+.author-avatar{
   border-radius: 50%;
   max-width: 60px;
 }
+
 .related{
   border: none;
 }
