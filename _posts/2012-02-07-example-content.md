@@ -122,6 +122,11 @@ Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliqua
 ![placeholder](http://placehold.it/400x200 "Medium example image")
 ![placeholder](http://placehold.it/200x200 "Small example image")
 
+
+<img class="img-left" src="http://placehold.it/200x200" alt="img left">
+<img class="img-center" src="http://placehold.it/200x200" alt="img center">
+<img class="img-right" src="http://placehold.it/200x200" alt="img right">
+
 ### Tables
 
 Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
