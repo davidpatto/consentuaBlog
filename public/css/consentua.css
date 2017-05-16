@@ -179,18 +179,38 @@ a.sidebar-nav-item:focus {
 
 
 .author{
-  background-color: #e1e1e1;
-  padding: 1rem;
+border: 2px solid #a22453;
+padding: 1rem;
+border-radius: 5px;
 }
 .author-detail{
   display: flex;
   border-bottom: 1px solid #fff;
 }
-.author-avatar{
-  border-radius: 50%;
-  max-width: 60px;
+.author-detail h3{
+  margin: 0px;
 }
-
+.author-avatar{
+border-radius: 50%;
+max-width: 100px;
+max-height: 100px;
+margin-right: 1rem;
+}
+.author-links{
+font-size: 1.2rem;
+width: 100%;
+display: flex;
+flex-wrap: wrap;
+justify-content: flex-end;
+flex-flow: flex-end;
+}
+.author-links a{
+  padding: 0.5rem 0.5rem 0rem 0rem
+}
+.author-links a:hover,
+.author-links a:focus{
+  color: var(--accent-color, #FFC021);
+}
 .related{
   border: none;
 }
