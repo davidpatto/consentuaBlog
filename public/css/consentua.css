@@ -155,7 +155,6 @@ a.sidebar-nav-item:focus {
   }
 }
 
-
 .post iframe{
     max-width: 100%;
 }
@@ -163,7 +162,7 @@ a.sidebar-nav-item:focus {
 .post .img-right{
   float: right;
   max-width: 50%;
-  padding: 1rem;
+  padding: 1rem 0rem 1rem 1rem;
 }
 
 .post .img-center{
@@ -174,7 +173,7 @@ a.sidebar-nav-item:focus {
 .post .img-left{
   float: left;
   max-width: 50%;
-  padding: 1rem;
+  padding: 1rem 1rem 1rem 0rem;
 }
 
 
