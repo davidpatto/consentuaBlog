@@ -3,6 +3,7 @@ layout: post
 title: Example content
 published: true
 author: jack_mason
+comments: true
 ---
 
 

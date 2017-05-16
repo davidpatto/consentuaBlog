@@ -3,6 +3,7 @@ layout: post
 title: How to implement consent for your council under GDPR
 published: true
 author: david_patto
+comments: true
 ---
 
 A new service from KnowNow Information, Consentua, helps organisations build citizen trust as required under General Data Protection Regulations (GDPR). It provides data processing transparency and gives citizens the choice and control needed to share data safely and comfortably.
