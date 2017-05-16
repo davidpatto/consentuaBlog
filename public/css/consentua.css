@@ -179,7 +179,7 @@ a.sidebar-nav-item:focus {
 
 
 .author{
-border: 2px solid #a22453;
+border: 2px solid var(--secondary-color, #A32655);
 padding: 1rem;
 border-radius: 5px;
 margin-bottom: 4rem;
@@ -204,9 +204,11 @@ display: flex;
 flex-wrap: wrap;
 justify-content: flex-end;
 flex-flow: flex-end;
+align-items: center;
 }
 .author-links a{
-  padding: 0.5rem 0.5rem 0rem 0rem
+  padding: 0.5rem 0.5rem 0rem 0rem;
+  transition: 250ms;
 }
 .author-links a:hover,
 .author-links a:focus{
@@ -223,14 +225,17 @@ flex-flow: flex-end;
     border: none;
     padding: 0.5em;
     width: 55px;
+    height: 55px;
     border-radius: 5px;
-    box-shadow: 0 2px 10px 0px rgba(0,0,0,0.2);
+    box-shadow: inset 0px -5px 0px 0px rgba(51, 51, 51, 0.7);
     outline: none;
     text-align: center;
+    transition: 100ms;
 }
 
 .share-btn:hover {
-  color: #eeeeee;
+  color: var(--grey-3-color, #d4d4d4);
+  box-shadow: inset 0px 0px 0px 0px rgba(0, 0, 0, 0);
 }
 
 .share-btn:active {

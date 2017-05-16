@@ -7,7 +7,7 @@ author: jack_mason
 
 
 <div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  Howdy! This is an example blog post that shows several types of HTML content supported in this blog.
 </div>
 
 ----
@@ -31,7 +31,12 @@ HTML defines a long list of available inline tags, a complete list of which can 
 
 Most of these elements are styled by browsers with few modifications on our part.
 
-## Heading
+# Heading-1
+## Heading-2
+### Heading-3
+#### Heading-4
+##### Heading-5
+###### Heading-6
 
 Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 

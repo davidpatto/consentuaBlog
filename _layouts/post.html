@@ -15,15 +15,15 @@ layout: default
 <!-- Output author details if some exist. -->
 {% if author %}
         <div class="author-detail">
-          <img class="author-avatar" src="{{ author.avatar }}">
+          {% if author.avatar %}<img class="author-avatar" src="{{ author.avatar }}">{% endif %}
           <article>
           <h3>{{ author.name }}</h3>
-          <p>{{ author.description }}</p>
+          {% if author.description %}<p>{{ author.description }}</p>{% endif %}
           </article>
         </div>
         <span class="author-links">
           {% if author.twitter %}<a href="{{ author.twitter }}"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i></a>{% endif %}
-          {% if author.email %}<a href="{{ author.email }}"><i class="fa fa-fw fa-envelope-o" aria-hidden="true"></i></a>{% endif %}
+          {% if author.email %}<a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope-o" aria-hidden="true"></i></a>{% endif %}
           {% if author.web %}<a href="{{ author.web }}"><i class="fa fa-fw fa-external-link" aria-hidden="true"></i></a>{% endif %}
         </span>
 

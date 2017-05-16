@@ -19,7 +19,7 @@ author:
   name:           'Knownow Information'
   url:            https://kn-i.com
 
-paginate:         5
+paginate:         2
 
 # Custom vars
 version:          2.1.0
