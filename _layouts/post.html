@@ -8,6 +8,19 @@ layout: default
   {{ content }}
 </div>
 
+<div>
+  <!-- Look the author details up from the site config. -->
+{% assign author = site.data.authors[page.author] %}
+
+<!-- Output author details if some exist. -->
+{% if author %}
+    <span>
+        <!-- Personal Info. -->
+        Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
+    </span>
+{% endif %}
+</div>
+
 <div class="share">
 <h2>Share This</h2>
   <!-- Twitter (url, text, @mention) -->
