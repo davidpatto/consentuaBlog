@@ -72,6 +72,7 @@ ul li h3{
  */
 
 .sidebar {
+  overflow: hidden;
   text-align: center;
   padding: 2rem 1rem;
   color: var(--grey-2-color, #E1E1E1);
@@ -79,7 +80,7 @@ ul li h3{
 }
 .sidebar:after{
     content: "";
-    display: block;
+    display: none;
     position: absolute;
     height: 125%;
     top: 15%; right: -40px; bottom: -40px; left: -40px;
@@ -149,6 +150,10 @@ a.sidebar-nav-item:focus {
     right:  1rem;
     bottom: 0.5rem;
     left:   1rem;
+    z-index: 2;
+  }
+  .sidebar:after{{
+    display: block;
   }
 }
 
