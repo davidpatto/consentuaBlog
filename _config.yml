@@ -10,7 +10,7 @@ title:            Consentua
 tagline:          'Blog'
 description:      'Choice and Control for your personal Data'
 url:              http://blog.consentua.com
-baseurl:          '/consentuaBlog'
+baseurl:          /
 home:             http://consentua.com
 dashboard:        https://app.consentua.com
 api:              http://api.consentua.com/swagger
@@ -28,5 +28,5 @@ gist:
 version:          2.1.0
 
 github:           
-  repo:           mrsideshowjack/consentuaBlog
-repository:       mrsideshowjack/consentuaBlog
+  repo:           davidpatto/consentuaBlog
+repository:       davidpatto/consentuaBlog
