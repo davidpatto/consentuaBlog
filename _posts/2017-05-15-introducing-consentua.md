@@ -17,15 +17,10 @@ The laws around consent are changing. Consentua gives organisations the ability 
 ### How it works
 
 * Consentua is accessed via a simple API (Application Programming Interface).
-
 * A consent template is created for your organisation - the template describes what information you need to collect from your users.
-
 * A consent request is presented to your user via an embedded instance of consentua within your application.
-
 * Your user chooses the level of consent they wish to grant.
-
 * The consent is recorded by Consentua and a consent receipt is made available via the API.
-
 * Your customer is now free to continue to enjoy your service.
 
 
