@@ -21,8 +21,12 @@ author:
 
 paginate:         2
 
+gist:
+  noscript: false
+
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/mrsideshowjack/consentuaBlog
+github:           
+  repo:           mrsideshowjack/consentuaBlog
+repository:       mrsideshowjack/consentuaBlog
