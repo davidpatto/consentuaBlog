@@ -1,5 +1,4 @@
 # Consentua Blog
-![](/public/logo/consentua-lock-pink.svg)
 
 [blog.consentua.com](http://blog.consentua.com)
 
@@ -31,3 +30,19 @@ comments: true
 * `published:` - can be ture or false, if false the post wont display on the blog; this means you can work on a blog post without it bieng visible to anyone.
 * `author:` - the author of the post, see `_data/authors.yml` to see valid author details.
 * `comments:` - enables / disables the comments at the bottom of the blog post.
+
+
+## How do I run on my local machine?
+
+Clone or fork this repo,
+make sure you have ruby and jekyll installed on your machine, and run:
+
+```
+$ jekyll serve
+# => A development server will run at http://localhost:4000/
+# Auto-regeneration: enabled. Use `--no-watch` to disable.
+```
+
+## How do I deploy?
+
+To deploy to github pages, just commit and push your changes to github.
