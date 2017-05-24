@@ -152,7 +152,7 @@ a.sidebar-nav-item:focus {
     left:   1rem;
     z-index: 2;
   }
-  .sidebar:after{{
+  .sidebar:after{
     display: block;
   }
 }
@@ -184,8 +184,10 @@ a.sidebar-nav-item:focus {
   }
 }
 
+
 .post iframe{
     max-width: 100%;
+    margin: 0px auto;
 }
 
 .post .img-right{
