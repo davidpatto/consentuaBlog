@@ -39,6 +39,10 @@ validation-report.json
 
 # Folders to ignore
 node_modules
+bower_intsall
+
+# ruby
+Gemfile.lock
 
 # Jekyll ignire files
 _site/

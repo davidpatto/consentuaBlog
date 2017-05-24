@@ -37,6 +37,10 @@ comments: true
 Clone or fork this repo,
 make sure you have ruby and jekyll installed on your machine, and run:
 
+install dependencies:
+` gem install -g `
+
+and serve: 
 ```
 $ jekyll serve
 # => A development server will run at http://localhost:4000/
