@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example content
-published: true
+published: false
 author: jack_mason
 comments: true
 ---
