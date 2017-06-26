@@ -184,8 +184,14 @@ a.sidebar-nav-item:focus {
   }
 }
 
-
-.post iframe{
+.post h2,
+.post h3,
+.post h4,
+.post h5{
+  margin-top: 4rem;
+}
+.post iframe,
+.post .twitter-tweet{
     max-width: 100%;
     margin: 0px auto;
 }

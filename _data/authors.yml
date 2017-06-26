@@ -6,6 +6,19 @@ jack_mason:
     web: https://sideshowjack.uk
     avatar: http://blog.consentua.com/public/authors/jack_mason.jpg
     description: Front end developer of Consentua.
+tom_ashcroft:
+    name: Tom Ashcroft
+    email: tom.ashcroft@kn-i.com
+    web: http://kn-i.com
+    avatar: http://blog.consentua.com/public/authors/tom_ashcroft.jpg
+    description: Lead developer of Consentua.
+# richard_gomer:
+#     name: Richard Gomer
+#     email: richard@xebre.net
+#     twitter: https://twitter.com/richardgomer
+#     web: http://www.blog.richardgomer.eu/
+#     avatar: http://blog.consentua.com/public/authors/richard_gomer.jpg
+#     description: Human-Computer Interaction Researcher and Consultant with a particular interest in Privacy, Consent & Data Protection.
 david_patto:
     name: David Patterson
     email: david.patterson@kn-i.com
