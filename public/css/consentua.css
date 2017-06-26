@@ -222,7 +222,7 @@ margin-bottom: 4rem;
 }
 .author-detail{
   display: flex;
-  border-bottom: 1px solid #fff;
+  border-bottom: 1px solid var(--secondary-color, #A32655);
 }
 .author-detail h3{
   margin: 0px;
@@ -252,6 +252,9 @@ align-items: center;
 }
 .related{
   border: none;
+}
+.related .related-posts h3 {
+    max-width: 90%;
 }
 /** share Button CSS **/
 
