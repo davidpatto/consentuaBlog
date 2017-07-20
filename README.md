@@ -12,7 +12,7 @@ Have a look inside the example post, use this file as a guide on how to write a 
 
 Posts require a few things to work:
 * correct file name structure eg `2012-02-07-example-content.md` with date with dashes, and post title.
-* have the following configurations:
+* have the following configurations at the top of the file:
 
 example config
 ```
@@ -23,6 +23,8 @@ published: true
 author: jack_mason
 comments: true
 ---
+
+# Content ...
 ```
 
 * `layout: post` - is required to function as a post
