@@ -14,4 +14,4 @@ You can read the LEO entry for Consentua at <a href="https://leadingedgeonly.com
 
 The creators of Consentua, KnowNow Information, were selected by the Department of International Trade for their snappily titled Company Sub-Sector Support Programme in 2016. 
 
-The programme also provides opportunities to demonstrate the technology in UK trade missions.
+The programme also provides opportunities to demonstrate the technology in UK trade missions. Last year we took part in the trade mission to Malaysia. Read more <a href="http://www.kn-i.com/blog/malaysia-trade-mission/"> here.</a>
