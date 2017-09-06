@@ -2,7 +2,7 @@
 layout: post
 title: Consentua features in Global Innovation Showcase
 published: true
-author: david.patterson
+author: david_patto
 comments: true
 ---
 <img class="img-right" src="http://www.kn-i.com/images/Leo_Showcase.jpg" alt="Consentua featured in the LEO Showcase">
