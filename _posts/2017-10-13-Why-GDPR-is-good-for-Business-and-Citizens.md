@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Consentua features in Global Innovation Showcase
-published: false
+published: true
 author: chris_cooper
 comments: true
 ---
