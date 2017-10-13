@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Consentua features in Global Innovation Showcase
+title: Why GDPR is good for Business and Citizens
 published: true
 author: chris_cooper
 comments: true
 ---
-# Why GDPR is good for Business and Citizens
+
 
 The world where business' have a free for all over personal data is changing. Why though is the change occurring? 
 The first reason is the new data protection regulation. [GDPR](https://ico.org.uk/for-organisations/data-protection-reform/overview-of-the-gdpr/). I do not congratulate legislators often, but this is actually good legislation.
