@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How do you find out about Consentua?
-published: false
+published: true
 author: chris_cooper
 comments: true
 ---
