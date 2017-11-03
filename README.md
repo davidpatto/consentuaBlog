@@ -6,9 +6,9 @@
 
 ## How do I 'do' a blog post??
 
-In github or in [prose.io](http://prose.io/) login with an account able to edit this repo; go to `_posts` there you can see other posts including the example post.
+In github or in [prose.io](http://prose.io/) login with an account able to edit this repo; go to `_posts/` there you can see other posts including the example post.
 
-Have a look inside the example post, use this file as a guide on how to write a blog post.
+Have a look inside the example post `_posts/2012-02-07-example-content.md`, use this file as a guide on how to write a blog post.
 
 Posts require a few things to work:
 * correct file name structure eg `2012-02-07-example-content.md` with date with dashes, and post title.
@@ -51,4 +51,4 @@ $ jekyll serve
 
 ## How do I deploy?
 
-To deploy to github pages, just commit and push your changes to github.
+To deploy to github pages, just commit and push your changes to the master branch on github.
