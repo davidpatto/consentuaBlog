@@ -6,7 +6,7 @@ author: chris_cooper
 comments: true
 ---
 
-## How do you find out about Consentua?
+
 Well reading this is a great startt! So far our customers have been coming to us.  Sometimes via a soft introduction from a partner or direct after a search or having looked us up on a directory (we are on IAPP for example).   The common element, however, is that they all have a specific need which Consentua fulfills.  A need for a system/service (aka an API) to handle consent management.  
 
 Yet this new consent management tool has to look good for customers.  It must deliver more than just a consent.  It needs to be transparent and give users some degree of control too.  
