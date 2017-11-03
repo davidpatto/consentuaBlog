@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I need a Consent Service. What to do Next
-published: false
+published: true
 author: chris_cooper
 comments: true
 ---
@@ -9,7 +9,7 @@ comments: true
 
 This is a blog aimed at developers, CTO’s, CIO’s, DPO’s and any one else involved in the enablement of technology to solve the challenges that GDPR throws up.  It will also be of interest to leaders of: compliance,marketing, customer service, operations.  At a stretch CFO’s & CEO’s.
 
-## IGDPR
+## GDPR
 
 Someone somewhere in your organisation has responsibility for compliance to the new General Data Protection Regulations (aka GDPR).  This responsibility may even rest on your shoulders.   
 
@@ -33,6 +33,8 @@ I need to have a local language capability but at the same time… stay in the c
 ## Keep Calm and Get Consentua
 
 The good news is that a new consent management API service has recently come to market that will meet all of the above requirements.   The service is called Consentua.   With the added benefit that it takes the output from the Privacy Impact Assessment and applies this in the setting up of your very own Consentua Client Service.  
+
+<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2017-10-13-Why-GDPR-is-good-for-Business-and-Citizens/keep-calm-and-get-consent-6.png" alt="img center">
 
 Consentua does one thing very well.  It provides end users with a transparent and easy to understand explanation of the types of data and the purposes their personal data will be used for; whilst also giving the data controller flexible control over what is asked for and the ability to change this anytime.  As well as providing both parties with a central audit point of the consent granted; plus it is secure, lightweight and easy to install.  
 
