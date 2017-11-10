@@ -5,9 +5,9 @@ published: true
 author: chris_cooper
 comments: true
 ---
+## How to Find Out About Consentua
 
-
-Well reading this is a great startt! So far our customers have been coming to us.  Sometimes via a soft introduction from a partner or direct after a search or having looked us up on a directory (we are on IAPP for example).   The common element, however, is that they all have a specific need which Consentua fulfills.  A need for a system/service (aka an API) to handle consent management.  
+Well reading this is a great start! So far our customers have been coming to us.  Sometimes via a soft introduction from a partner or direct after a search or having looked us up on a directory (we are on [IAPP](https://iapp.org/media/pdf/resource_center/Tech-Vendor-Directory-1.4-electronic.pdf) for example).   The common element, however, is that they all have a specific need which Consentua fulfills.  A need for a system/service (aka an API) to handle consent management.  
 
 Yet this new consent management tool has to look good for customers.  It must deliver more than just a consent.  It needs to be transparent and give users some degree of control too.  
 
@@ -19,6 +19,8 @@ They also have a need for a low impact, a quick and low-risk method of dealing w
 
 ## What is Consentua?
 It does one thing well. It captures consent to process personal data. With a clear, unambiguous description of the data types and purposes.    Along with the ability for the ongoing validation of this consent.  The clear user interface which captures the consent from the user is transformed into a standard based consent receipt.  
+
+<img class="img-center" src="{{ site.baseurl }}/public/logo/consentua-logo-colour.svg" alt="Consentua Lock">
 
 This consent receipt can then be shared and used by any party that the consent owner (the data controller) wishes.   This means both parties (the controller and processor) are covered when it comes to audit time and the question is asked: “has customer X consented to this use of their personal data?”  “Yes” is the response. “Here is the consent receipt.“
 
@@ -32,6 +34,10 @@ Consent services can be organisation wide, campaign-specific or even country lev
  
 ## Trust & Transparency
 It is not all about consent though.  One of the changes that GDPR brings is a demand for a more transparent description of the data types and purposes even when legitimate interest for processing this data is allowed.   A stretch ambition is to get apps to reduce the amount of clutter in terms and conditions.  This will hopefully mean apps use Consentua as the main vehicle for describing to the customer the service they can expect in return for sharing their personal data.   
+
+<img class="img-left" src="{{ site.baseurl }}/public/post_imgs/2017-10-13-Why-GDPR-is-good-for-Business-and-Citizens/Screenshot_20161215-132318.png" alt="img center">
+
+<img class="img-right" src="{{ site.baseurl }}/public/post_imgs/2017-10-13-Why-GDPR-is-good-for-Business-and-Citizens/Screenshot_20161215-132607.png" alt="img center">
 
 Overall though the aim of Consentua is to improve the trust between customers and brands.  We believe that by having the transparent and easy to understand description of not only the types of personal data that are being used but why and for what purpose too; brands will increase trust.  This is because honesty that is then continually verified through practice and experience fosters trust.  But you have to explain what it is you are doing as a brand first.  
 
