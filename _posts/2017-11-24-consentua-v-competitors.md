@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Consentua V Competitors
-published: false
+published: true
 author: chris_cooper
 comments: true
 ---
