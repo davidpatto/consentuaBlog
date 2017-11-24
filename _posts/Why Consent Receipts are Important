@@ -1,10 +1,17 @@
-Why Consent Receipts are Important
+---
+layout: post
+title: Why Consent Receipts are Important
+published: false
+author: chris_cooper
+comments: true
+---
+
 
 This blog  provides the background as to why Consentua has embraced the Kantara Initiatives Consent Receipt Specification.    
 
 One of the drivers in adopting the specification for Consentua is the heritage and experience of the team that created it.   Having almost 100 years worth of combined IT experience, we had a numerous stories and experiences of projects and products that had gone wrong.   One of ingredients of projects that had been a success was their basis on standards.
 
-Standards
+## Standards
 
 Standards are very important.  They drive a minimum level of quality.  Standards when applied ensure that when a product says it will do X. It does X.  Standards are a foundation from which to build upon.   But, standards evolve and change.   Consent Receipt standards are no different.  
 
@@ -14,7 +21,7 @@ Secondly, standards provide a guarantee of interoperability.  This is important 
 
 Finally, because the consent management market is still immature, the availability of a standard such as the Kantara Consent Receipt Specification gives consumers and producers more confidence the market opportunity is stable.  This attracts investment and innovation.   
 
-Link to Identity
+## Link to Identity
 
 Kantara are the organisation behind OAuth2.0 too.   This is a great piece of standards work in its own right.  As it now means your identity can be seamlessly shared across the web in a secure fashion.  From a user perspective this is ease of use heaven. 
 
@@ -26,7 +33,8 @@ The consent receipt therefore will have an important role in the future.  It wil
 
 The variability of consent (I can change my mind) means a different answer is likely depending on the party requesting and the location/time/day that the request was made.    This means that consent interactions are only going to increase as more and more things become connected to the internet.  All wanting a slice of your personal data.  
 
-Future World
+## Future World
+
 In the future, consent interactions are slowly going to be automated and the citizen will likely group and order consent based on a scenario and an outcome.   More a set of ethical rules and thresholds.   The rule set will be set verbally by the citizen and will arbitrarily change based on mood and location.   
 
 The role of the consent receipt is to be this dynamic store of consent.  Based on the purposes previously agreed to by the citizen, the consent request is processed and acted upon in realtime.   Consent management services will need to handle this variability and flexibility.   The Kantara Consent Receipt specification has already thought ahead in terms of these types of requirement. 
@@ -34,7 +42,7 @@ The role of the consent receipt is to be this dynamic store of consent.  Based o
 From a Consentua perspective we are investing in this next generation of consent interaction.   We foresee a time when consent bots based on your collection of consent receipts will automatically handle consent in a consistent and trusted fashion.   But this requires a… 
 
 
-Citizens have a single view of Consent
+## Citizens have a single view of Consent
 
 Consentua believes that in the not to distant future, when consent management is mainstream.  This is when millions of citizens have interacted with a consent service and consent receipts are plenty.  The next consumer demand will be for a single view of consent.   
 
@@ -46,7 +54,7 @@ This means that if a consent receipt has followed the standard and is made open 
 
 Now the achilles heel of any single view of consent is your digital identity.   But, as we know this is being fixed by such things as the OAuth2.0 evolution and the rise of the PIMs.  
 
-Conclusion
+## Conclusion
 
 The good news is that Kantara are already exploring through a joint working group the link between consent and identity.    The other piece of good news is that an interoperability work stream is also working on an active trial of a PIM interacting with a consent repository.  With Consentua playing an active role in shaping and using the standard we are supporters of this activity.     
 
