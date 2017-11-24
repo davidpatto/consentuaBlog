@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Consentua Use Case Stories. 
-published: false
+published: true
 author: chris_cooper
 comments: true
 ---
