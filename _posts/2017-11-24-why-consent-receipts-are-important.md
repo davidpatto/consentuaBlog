@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Consent Receipts are Important
-published: false
+published: true
 author: chris_cooper
 comments: true
 ---
