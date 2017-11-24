@@ -1,4 +1,11 @@
-Why you Need Consent in the Digital Economy. It enables Trust.   
+---
+layout: post
+title: Why you Need Consent in the Digital Economy. It enables Trust.  
+published: false
+author: chris_cooper
+comments: true
+---
+ 
 
 Lets face it we have grown used to organisations sending us unsolicited material and even though we as consumers are sometimes frustrated by old adverts chasing your business just because you once went to look at booking.com, the fact is the internet is not on your side as a consumer.  Until now that is, with GDPR now coming into force consumers finally have an opportunity for a more level playing field. 
 
@@ -12,7 +19,7 @@ The market today is seeing potential customers declining signing up for services
 
 Overall GDPR will help reduce risk and exposure to your business.  This is critical as more and more activity in the marketplace is digitally driven. In short GDPR if implemented right will improve operational efficiency and increase profit.  
 
-But What do I do Now?  
+### But What do I do Now?  
 
 Do not panic.  This is because Consentua can help.   Consentua does one thing very well, it captures consent from the data subject/user.  
 
@@ -22,10 +29,10 @@ Consentua encourages organisations to have different levels of service quality r
  
 This means it will facilitate an improvement in trust between the data subject and your organisation too.  As well as improving operational efficiency and reducing risk to your organisation too. 
 
-How do I get Consentua? 
+### How do I get Consentua? 
 
 Simple.  
-Go to www.consentua.com to learn more.  
+Go to [consentua.com](http://consentua.com) to learn more.  
 Contact the team at contact@consentua.com
 Start preparing your consent template
 Install the API so it works with your enterprise/business systems.  Consentua requires a common user id so it will work with your systems. Consentua does not hold any user data other than this ID. 
