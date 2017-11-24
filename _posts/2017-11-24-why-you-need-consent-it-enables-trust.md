@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why you Need Consent in the Digital Economy. It enables Trust.  
-published: false
+published: true
 author: chris_cooper
 comments: true
 ---
