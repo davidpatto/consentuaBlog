@@ -6,8 +6,6 @@ author: David Patterson
 comments: true
 ---
 
-# Why does anyone need consent management software?
-
 <em> TL;DR - make more money by improving trust between you and your customers </em>
 
 <img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2018-01-16-Why-does-anyone-need-consent-management-software/Why_consent_software.jpg" alt="blogpost hero image of a pen on a piece of paper">
