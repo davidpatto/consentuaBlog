@@ -10,9 +10,7 @@ comments: true
 
 <em> TL;DR - make more money by improving trust between you and your customers </em>
 
-<img class="img-left" src="{{ site.baseurl }}/public/post_imgs/2018-01-16-Why-does-anyone-need-consent-management-software/Untitled design-16.jpg" alt="Consent tickboxes and the Consentua logo">
-
-<img class="img-left" src="{{ site.baseurl }}/public/post_imgs/2018-01-16-Why-does-anyone-need-consent-management-software/Why does anyone need consent management software?-2.jpg" alt="blogpost hero image of a pen on a piece of paper">
+<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2018-01-16-Why-does-anyone-need-consent-management-software/Why_consent_software.jpg" alt="blogpost hero image of a pen on a piece of paper">
 
 People ask me “why does anyone need consent management? Aren’t there other, more applicable legal bases for the processing of personal data?”
 
