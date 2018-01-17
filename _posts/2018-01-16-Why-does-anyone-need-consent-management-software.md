@@ -2,7 +2,7 @@
 layout: post
 title: Why does anyone need consent management software?
 published: true
-author: David Patterson
+author: david_patto
 comments: true
 ---
 
