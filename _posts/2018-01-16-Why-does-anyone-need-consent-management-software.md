@@ -55,6 +55,6 @@ For example, if you use a CRM system to manage your customer data, do you need t
 
 
 <img class="img-left" src="{{ site.baseurl }}/public/post_imgs/2018-01-16-Why-does-anyone-need-consent-management-software/Untitled design-16.jpg" alt="Consent tickboxes and the Consentua logo">
-Our own tool is called Consentua. It is available now and ready to be deployed for your organisation today. Until March 31st 2018 readers of this blog can get a 20% discount against our published prices by using the code BLOG20.
+Our own tool is called Consentua. It is available now and ready to be deployed for your organisation today.
 
 Send me an email at <strong>david@consentua.com</strong> if you want to see how Consentua can help you to improve trust with your customers.
