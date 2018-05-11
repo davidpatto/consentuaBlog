@@ -1,3 +1,4 @@
+# ---------DEPRECATED------------ GOTO [Consentua/blog](https://github.com/Consentua/blog)
 # Consentua Blog
 
 [blog.consentua.com](http://blog.consentua.com)
